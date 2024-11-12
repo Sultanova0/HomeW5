@@ -1,0 +1,4 @@
+import colorama
+print(dir(colorama))
+print(Fore.GREEN + 'зеленый текст')
+print(Back.YELLOW + 'на желтом фоне')
